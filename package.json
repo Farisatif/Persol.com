@@ -2,7 +2,7 @@
   "name": "persol",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Farisatif.github.io/Persol.com",
+  "homepage": "https://farisatif.github.io/Persol.com",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
