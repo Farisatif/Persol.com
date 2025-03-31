@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Persol.com/static/css/main.9dcf05a0.css",
+    "main.js": "/Persol.com/static/js/main.28b3a77d.js",
+    "static/js/453.60634ccf.chunk.js": "/Persol.com/static/js/453.60634ccf.chunk.js",
+    "static/media/jpg": "/Persol.com/static/media/5e88e483f13d1dee1a0bf4b4ed0644a2.7462a2881f8975ef7cf7.jpg",
+    "static/media/182207002_4.jpg": "/Persol.com/static/media/182207002_4.88c1628d3a22273869f4.jpg",
+    "static/media/9d0b7f3DTEDSM00001361_1.jpg": "/Persol.com/static/media/9d0b7f3DTEDSM00001361_1.4b3317e201cb41a50e53.jpg",
+    "static/media/26b5929RANCH-C3_1.jpg": "/Persol.com/static/media/26b5929RANCH-C3_1.5e325be6098f4ebf80f0.jpg",
+    "static/media/Picsart_25-02-15_21-32-18-033.png": "/Persol.com/static/media/Picsart_25-02-15_21-32-18-033.595157e8244a6465f2bf.png",
+    "static/media/Mask.png": "/Persol.com/static/media/Mask.2d9c1683417466d01d7a.png",
+    "static/media/1.jpg": "/Persol.com/static/media/1.25db962a42846eb6f0e5.jpg",
+    "static/media/depositphotos_9082584-stock-photo-feedback-process 1.png": "/Persol.com/static/media/depositphotos_9082584-stock-photo-feedback-process 1.aaa4351af05c9cf898dc.png",
+    "static/media/Aboutus.png": "/Persol.com/static/media/Aboutus.7769ce8ec58eaa0e1887.png",
+    "static/media/image10.png": "/Persol.com/static/media/image10.150428cc999e55cd4dd1.png",
+    "static/media/image11.png": "/Persol.com/static/media/image11.931a05f6b0dcdd912e1f.png",
+    "index.html": "/Persol.com/index.html",
+    "main.9dcf05a0.css.map": "/Persol.com/static/css/main.9dcf05a0.css.map",
+    "main.28b3a77d.js.map": "/Persol.com/static/js/main.28b3a77d.js.map",
+    "453.60634ccf.chunk.js.map": "/Persol.com/static/js/453.60634ccf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dcf05a0.css",
+    "static/js/main.28b3a77d.js"
+  ]
+}
